@@ -35,7 +35,7 @@ Prueba devolviendo el material con atraso. Se observa la aplicación de la estra
 
 ### 4. Depurar DNIs Duplicados - HashSet (POST)
 Prueba enviando un arreglo de DNIs con elementos repetidos. El sistema retorna la lista limpia procesada en una sola iteración.
-![Evidencia_Depurar](Ruta_A_Tu_Imagen_Aqui.png)
+
 
 ---
 *Nota: La colección completa de Postman (`.json`) con estas peticiones preconfiguradas se encuentra exportada en la raíz de este repositorio para su ejecución y verificación.*
