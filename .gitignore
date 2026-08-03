@@ -4,6 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 repomix-output.xml
+.repomixignore
 
 ### STS ###
 .apt_generated
